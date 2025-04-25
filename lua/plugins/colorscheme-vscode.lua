@@ -11,8 +11,8 @@ return
   config = function()
     require('vscode').setup({
       -- Alternatively set style in setup
-      style = 'dark'
-      -- style = 'light'
+      -- style = 'dark'
+      style = 'light'
 
       -- Enable transparent background
       -- transparent = true,
